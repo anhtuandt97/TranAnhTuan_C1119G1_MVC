@@ -6,7 +6,121 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6502a2b0-749e-4fc9-b585-88baad6644a3" name="Default Changelist" comment="" />
+    <list default="true" id="6502a2b0-749e-4fc9-b585-88baad6644a3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThucHanhEmailGradle/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThucHanhEmailGradle/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThucHanhEmailGradle/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ViewsAndThymeleaf/BaiTapQuanLySanPham/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ViewsAndThymeleaf/BaiTapQuanLySanPham/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ViewsAndThymeleaf/BaiTapQuanLySanPham/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ViewsAndThymeleaf/BaiTapQuanLySanPham/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ViewsAndThymeleaf/BaiTapQuanLySanPham/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ViewsAndThymeleaf/BaiTapQuanLySanPham/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ViewsAndThymeleaf/BaiTapQuanLySanPham/src/main/java/com/codegym/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ViewsAndThymeleaf/BaiTapQuanLySanPham/src/main/java/com/codegym/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ViewsAndThymeleaf/BaiTapQuanLySanPham/src/main/java/com/codegym/controller/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ViewsAndThymeleaf/BaiTapQuanLySanPham/src/main/java/com/codegym/model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ViewsAndThymeleaf/BaiTapQuanLySanPham/src/main/java/com/codegym/service/ProductServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ViewsAndThymeleaf/BaiTapQuanLySanPham/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ViewsAndThymeleaf/BaiTapQuanLySanPham/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ViewsAndThymeleaf/BaiTapQuanLySanPham/src/main/webapp/WEB-INF/views/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ViewsAndThymeleaf/BaiTapQuanLySanPham/src/main/webapp/WEB-INF/views/delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ViewsAndThymeleaf/BaiTapQuanLySanPham/src/main/webapp/WEB-INF/views/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ViewsAndThymeleaf/BaiTapQuanLySanPham/src/main/webapp/WEB-INF/views/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ViewsAndThymeleaf/BaiTapQuanLySanPham/src/main/webapp/WEB-INF/views/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ViewsAndThymeleaf/BaiTapQuanLySanPham/src/main/webapp/WEB-INF/views/view.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ViewsAndThymeleaf/BaiTapQuanLySanPham/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ViewsAndThymeleaf/ThucHanhQuanLyKhachHang/src/main/java/com/codegym/AppConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ViewsAndThymeleaf/ThucHanhQuanLyKhachHang/src/main/java/com/codegym/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ViewsAndThymeleaf/ThucHanhQuanLyKhachHang/src/main/java/com/codegym/model/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ViewsAndThymeleaf/ThucHanhQuanLyKhachHang/src/main/java/com/codegym/service/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ViewsAndThymeleaf/ThucHanhQuanLyKhachHang/src/main/java/com/codegym/service/CustomerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ViewsAndThymeleaf/ThucHanhQuanLyKhachHang/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ViewsAndThymeleaf/ThucHanhQuanLyKhachHang/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ViewsAndThymeleaf/ThucHanhQuanLyKhachHang/src/main/webapp/WEB-INF/views/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ViewsAndThymeleaf/ThucHanhQuanLyKhachHang/src/main/webapp/WEB-INF/views/delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ViewsAndThymeleaf/ThucHanhQuanLyKhachHang/src/main/webapp/WEB-INF/views/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ViewsAndThymeleaf/ThucHanhQuanLyKhachHang/src/main/webapp/WEB-INF/views/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ViewsAndThymeleaf/ThucHanhQuanLyKhachHang/src/main/webapp/WEB-INF/views/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ViewsAndThymeleaf/ThucHanhQuanLyKhachHang/src/main/webapp/WEB-INF/views/view.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ViewsAndThymeleaf/ThucHanhQuanLyKhachHang/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BaiTapCalculator/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/demo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/controllers/HomeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/webapp/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/webapp/WEB-INF/views/home.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/webapp/WEB-INF/views/success.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/target/classes/controllers/HomeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/target/demo/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/target/demo/WEB-INF/classes/controllers/HomeController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/target/demo/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/target/demo/WEB-INF/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/target/demo/WEB-INF/lib/spring-aop-4.3.16.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/target/demo/WEB-INF/lib/spring-beans-4.3.16.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/target/demo/WEB-INF/lib/spring-context-4.3.16.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/target/demo/WEB-INF/lib/spring-core-4.3.16.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/target/demo/WEB-INF/lib/spring-expression-4.3.16.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/target/demo/WEB-INF/lib/spring-web-4.3.16.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/target/demo/WEB-INF/lib/spring-webmvc-4.3.16.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/target/demo/WEB-INF/views/home.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/target/demo/WEB-INF/views/success.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/target/demo/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loginAgain/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loginAgain/.idea/artifacts/loginAgain_war_exploded.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loginAgain/.idea/libraries/Spring_5_2_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loginAgain/.idea/libraries/Spring_MVC_5_2_3_RELEASE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loginAgain/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loginAgain/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loginAgain/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loginAgain/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loginAgain/lib/aopalliance-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loginAgain/lib/commons-logging-1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loginAgain/lib/spring-aop-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loginAgain/lib/spring-aspects-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loginAgain/lib/spring-beans-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loginAgain/lib/spring-context-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loginAgain/lib/spring-context-support-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loginAgain/lib/spring-core-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loginAgain/lib/spring-expression-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loginAgain/lib/spring-instrument-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loginAgain/lib/spring-jdbc-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loginAgain/lib/spring-jms-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loginAgain/lib/spring-messaging-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loginAgain/lib/spring-orm-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loginAgain/lib/spring-oxm-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loginAgain/lib/spring-test-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loginAgain/lib/spring-tx-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loginAgain/lib/spring-web-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loginAgain/lib/spring-webmvc-5.2.3.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loginAgain/loginAgain.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loginAgain/src/com/codegym/controller/UserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loginAgain/src/com/codegym/dao/UserDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loginAgain/src/com/codegym/model/Login.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loginAgain/src/com/codegym/model/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loginAgain/web/WEB-INF/applicationContext.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loginAgain/web/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loginAgain/web/WEB-INF/views/home.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loginAgain/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loginAgain/web/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uploadFile/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uploadFile/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uploadFile/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uploadFile/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uploadFile/src/main/java/controllers/MyFileUploadController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uploadFile/src/main/java/form/MyUploadForm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uploadFile/src/main/webapp/WEB-INF/dispatcher-servlet.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uploadFile/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uploadFile/uploadFile.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +134,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
     <option name="FILTER_WARNINGS" value="false" />
@@ -28,6 +145,7 @@
     <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectId" id="1XkzaD3SIQZY0DIEiSx3JbV8ngH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -37,7 +155,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="E:/codegym c1019i1/demo/DemoController" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -157,6 +275,8 @@
       <updated>1581604941139</updated>
       <workItem from="1581605037977" duration="2466000" />
       <workItem from="1581642966816" duration="3059000" />
+      <workItem from="1581946751144" duration="11000" />
+      <workItem from="1581946795236" duration="25000" />
     </task>
     <servers />
   </component>
