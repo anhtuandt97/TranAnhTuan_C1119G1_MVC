@@ -3,7 +3,7 @@ package com.codegym.model;
 import org.springframework.stereotype.Component;
 import org.springframework.validation.Errors;
 import org.springframework.validation.ValidationUtils;
-import javax.validation.Validator;
+import org.springframework.validation.Validator;
 
 @Component
 public class User implements Validator {
@@ -119,3 +119,4 @@ public class User implements Validator {
             errors.rejectValue("email", "email.matches");
         }
     }
+}
