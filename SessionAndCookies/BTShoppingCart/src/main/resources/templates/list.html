@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>Show list Product</title>
+</head>
+<body>
+<h1>Products</h1>
+<p>
+    <a href="/create">Create new product</a>
+</p>
+<table border="1">
+    <tr>
+        <td>Name Product</td>
+        <td>Price</td>
+        <td>Description Product</td>
+        <td>Image</td>
+        <td>Edit</td>
+        <td>Delete</td>
+        <td>view</td>
+        <td>choose</td>
+    </tr>
+    <th:block th:each="product:${listProduct}">
+        <tr>
+            <td th:text="${product.nameProduct}"></td>
+            <td th:text="${product.price}"></td>
+            <td th:text="${product.description}"></td>
+            <td th:text="${product.img}"></td>
+            <td><a th:href="@{/edit/__${product.idProduct}__}">edit</a></td>
+            <td><a th:href="@{/delete/__${product.idProduct}__}">delete</a></td>
+            <td><a th:href="@{/view/__${product.idProduct}__}">view</a></td>
+            <td><a th:href="@{/addProduct/__${product.idProduct}__}">choose</a></td>
+        </tr>
+    </th:block>
+</table>
+<p>
+    <a href="/viewCart"> Go to Cart</a>
+</p>
+</body>
+</html>

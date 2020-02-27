@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>Delete Product</title>
+</head>
+<body>
+<h1>Delete Category</h1>
+<h2>Are you sure?</h2>
+<p>
+    <a href="/product"> Back to Product List</a>
+</p>
+<form th:action="@{/delete}" th:object="${product}" method="post">
+    <input type="hidden" th:field="*{idProduct}"/>
+<table>
+    <tr>
+        <td>Product Name</td>
+        <td th:text ="${product.nameProduct}"></td>
+    </tr>
+    <tr>
+        <td>Price</td>
+        <td th:text ="${product.price}"></td>
+    </tr>
+    <tr>
+        <td>Description Product</td>
+        <td th:text ="${product.description}"></td>
+    </tr>
+    <tr>
+        <td>Image</td>
+        <td th:text ="${product.img}"></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td><input type="submit" value="Delete product"></td>
+    </tr>
+</table>
+</form>
+</body>
+</html>
